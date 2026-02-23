@@ -1,31 +1,31 @@
 const audioFiles = [
     {
          name: "原七里香伴奏",
-         filename: "原七里香伴奏.wav",
+         filename: "原七里香伴奏.mp3",
          description: "原七里香伴奏",
          icon: "🎸"
     },
     {
          name: "原七里香人声",
-         filename: "原七里香人声.wav",
+         filename: "原七里香人声.mp3",
          description: "原七里香人声",
          icon: "🎤"
     },
     {
          name: "周杰伦陈源是我儿",
-         filename: "周杰伦陈源是我儿.wav",
+         filename: "周杰伦陈源是我儿.mp3",
          description: "周杰伦陈源是我儿",
          icon: "icons/666.png"
     },
     {
          name: "AI曼波花海",
-         filename: "AI曼波花海.wav",
+         filename: "AI曼波花海.mp3",
          description: "AI曼波花海",
          icon: "🌸"
     },
     {
          name: "AI周浩天年轮",
-         filename: "AI周浩天年轮.wav",
+         filename: "AI周浩天年轮.mp3",
          description: "AI周浩天年轮",
          icon: "🌳"
     }
