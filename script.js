@@ -15,7 +15,7 @@ const audioFiles = [
          name: "周杰伦陈源是我儿",
          filename: "周杰伦陈源是我儿.mp3",
          description: "周杰伦陈源是我儿",
-         icon: "icons/666.png"
+         icon: "/SBMEMBER/icons/666.png"
     },
     {
          name: "AI曼波花海",
@@ -175,3 +175,4 @@ function togglePlay(index) {
 
 // 页面加载完成后渲染列表
 document.addEventListener('DOMContentLoaded', renderAudioList);
+
